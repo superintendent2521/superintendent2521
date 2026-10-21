@@ -1,13 +1,10 @@
-# Hey, I'm Superintendent 👋
-
-## Funny curvy line
+# Hi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./superintendent-signature-white.svg">
   <img src="./superintendent-signature.svg" alt="The path of 'superintendent' traced across a QWERTY keyboard" width="650">
 </picture>
-
-It's **superintendent** traced across a QWERTY keyboard, made with [this neat generator](https://signature.cnrad.dev/) I found on Twitter.
+made with [this neat generator](https://signature.cnrad.dev/) I found on Twitter.
 
 - 💻 Check out my [website](https://superintendent.me/).
 - 🔧 I previously worked on [wikiware](https://github.com/superintendent2521/wikiware), open source wiki software.

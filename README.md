@@ -1,16 +1,3 @@
-# Hi
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./superintendent-signature-white.svg">
-  <img src="./superintendent-signature.svg" alt="The path of 'superintendent' traced across a QWERTY keyboard" width="650">
-</picture>
-made with [this neat generator](https://signature.cnrad.dev/) I found on Twitter.
-
-- 💻 Check out my [website](https://superintendent.me/).
-- 🔧 I previously worked on [wikiware](https://github.com/superintendent2521/wikiware), open source wiki software.
-
-## GitHub stats
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=superintendent2521&amp;show_icons=true&amp;theme=github_dark">
   <img src="https://github-stats-extended.vercel.app/api?username=superintendent2521&amp;show_icons=true" alt="Superintendent's GitHub statistics">
